@@ -1,0 +1,16 @@
+---
+---
+
+body {
+  background: linear-gradient(
+      rgba(245, 240, 230, 0.92),
+      rgba(235, 245, 235, 0.92)
+    ),
+    url("/assets/images/cotedazur-plants.jpg");
+
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: "Georgia", serif;
+  color: #2f3b2f;
+}
